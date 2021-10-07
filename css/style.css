@@ -1,0 +1,160 @@
+.cols-5 {
+  width: 5%; }
+
+.cols-10 {
+  width: 10%; }
+
+.cols-15 {
+  width: 15%; }
+
+.cols-20 {
+  width: 20%; }
+
+.cols-25 {
+  width: 25%; }
+
+.cols-30 {
+  width: 30%; }
+
+.cols-35 {
+  width: 35%; }
+
+.cols-40 {
+  width: 40%; }
+
+.cols-45 {
+  width: 45%; }
+
+.cols-50 {
+  width: 50%; }
+
+.cols-55 {
+  width: 55%; }
+
+.cols-60 {
+  width: 60%; }
+
+.cols-65 {
+  width: 65%; }
+
+.cols-70 {
+  width: 70%; }
+
+.cols-75 {
+  width: 75%; }
+
+.cols-80 {
+  width: 80%; }
+
+.cols-85 {
+  width: 85%; }
+
+.cols-90 {
+  width: 90%; }
+
+.cols-95 {
+  width: 95%; }
+
+.cols-100 {
+  width: 100%; }
+
+@media screen and (min-width: 640px) {
+  .cols-m5 {
+    width: 5%; }
+  .cols-m10 {
+    width: 10%; }
+  .cols-m15 {
+    width: 15%; }
+  .cols-m20 {
+    width: 20%; }
+  .cols-m25 {
+    width: 25%; }
+  .cols-m30 {
+    width: 30%; }
+  .cols-m35 {
+    width: 35%; }
+  .cols-m40 {
+    width: 40%; }
+  .cols-m45 {
+    width: 45%; }
+  .cols-m50 {
+    width: 50%; }
+  .cols-m55 {
+    width: 55%; }
+  .cols-m60 {
+    width: 60%; }
+  .cols-m65 {
+    width: 65%; }
+  .cols-m70 {
+    width: 70%; }
+  .cols-m75 {
+    width: 75%; }
+  .cols-m80 {
+    width: 80%; }
+  .cols-m85 {
+    width: 85%; }
+  .cols-m90 {
+    width: 90%; }
+  .cols-m95 {
+    width: 95%; }
+  .cols-m100 {
+    width: 100%; } }
+
+@media screen and (min-width: null) {
+  .cols-l5 {
+    width: 5%; }
+  .cols-l10 {
+    width: 10%; }
+  .cols-l15 {
+    width: 15%; }
+  .cols-l20 {
+    width: 20%; }
+  .cols-l25 {
+    width: 25%; }
+  .cols-l30 {
+    width: 30%; }
+  .cols-l35 {
+    width: 35%; }
+  .cols-l40 {
+    width: 40%; }
+  .cols-l45 {
+    width: 45%; }
+  .cols-l50 {
+    width: 50%; }
+  .cols-l55 {
+    width: 55%; }
+  .cols-l60 {
+    width: 60%; }
+  .cols-l65 {
+    width: 65%; }
+  .cols-l70 {
+    width: 70%; }
+  .cols-l75 {
+    width: 75%; }
+  .cols-l80 {
+    width: 80%; }
+  .cols-l85 {
+    width: 85%; }
+  .cols-l90 {
+    width: 90%; }
+  .cols-l95 {
+    width: 95%; }
+  .cols-l100 {
+    width: 100%; } }
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center; }
+
+.container {
+  border: lightcoral solid 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px; }

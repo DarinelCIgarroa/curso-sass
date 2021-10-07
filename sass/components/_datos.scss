@@ -1,0 +1,28 @@
+$number: 1;
+$number2: 10px;
+$number3: 20s;
+$string: 'Darinel';
+$string2: none;
+$color: rgba(0, 255, 191, 0.74);
+$color2: hls(200,100,50);
+$color3: #aaff99;
+$list: 1px solid red;
+$list2: primary, secondary, tertiary;
+$boolean: true;
+$map: (
+    primary: red,
+    secondary: green,
+    tertiary: blue
+);
+
+body{
+   background-color: $color;
+}
+
+p{
+    background-color: $color;
+}
+
+.button{
+    border: 1px solid $color;
+}

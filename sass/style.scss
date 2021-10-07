@@ -1,0 +1,36 @@
+// Desventajas de CSS
+// No es programción
+// Especifidad, cascada, herencia
+// Modularización
+
+// Sass es un superset de css (Un lenguaje amplia las capacidades de css)
+// Convierte css en un lenguaje de programación
+// Sass es un preprocesador de CSS. Hay que convertirlo a css (Compilar)
+// Sass es 100% compatible con css
+// para ejecutar en watch de carpeta a carpeta node-sass -w sass -o css
+@import "components/ciclos";
+
+ *{
+     margin: 0;
+     padding: 0;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+body{ 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container{
+    border: lightcoral solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+
+
+
+
+
